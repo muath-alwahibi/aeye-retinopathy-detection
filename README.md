@@ -39,6 +39,11 @@ End-to-end pipeline — from raw image input to classification output
 🎯 Goal
 Build a reliable, accessible screening tool that can flag high-risk patients for specialist follow-up — reducing preventable blindness through early AI-assisted detection.
 
-👤 Developer
-Maadh Ahmed Al-Wahaibi — UTAS, Muscat, Oman
+## 👥 Team
+
+- **Maadh Ahmed Al-Wahaibi** — UTAS, Muscat, Oman
+- **Fatma Ahmed Ali Al Moosawi** — UTAS, Muscat, Oman
+- **Ahad Muslem Nasser Al-Battashi** — UTAS, Muscat, Oman
+
+  
 📧 muad454545@gmail.com
